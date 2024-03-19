@@ -2,8 +2,7 @@
 
 ##Executive summary -
 -The law enforcement database proposed herein is designed to support the operational needs of law enforcement agencies by efficiently managing crime data, facilitating investigations, and streamlining case management processes. This comprehensive database aims to enhance information sharing, collaboration among officers, and the effectiveness of crime prevention and resolution efforts.
--
--
+
 specification
 -
 -
